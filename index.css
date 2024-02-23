@@ -1,0 +1,149 @@
+main
+{
+    background-color: #cff363a6;
+}
+h2
+{
+    background-color: #a6b3b5;
+    text-align: center;
+}
+.body
+{
+    background-color: #b7f60a;
+}
+header
+{
+    background-color: #fbfbfb;
+}
+img
+{
+    border: 30px 30px 30px 30px;
+    border-color: rgba(146, 244, 244, 0.492);
+}
+footer
+{
+    color: rgb(9, 9, 9);
+  
+    text-align: center;
+    
+}
+.title
+{
+    font-size: xx-large;
+    padding: 0%;
+    text-align: center;
+}
+.hname
+{
+    
+    float: left;
+    width: 50%;
+    background-color: #b0b09c;
+    
+}
+.course
+{
+    float: right;
+    width: 50%;
+    text-align: right;
+    background-color: #b0b09c;
+}
+.banner
+{
+    width: 100%;
+}
+.name_stuid
+{
+    
+    
+}
+.fullname
+{
+    float: left;
+    
+}
+.Id
+{
+    float: right;
+}
+.hobby1
+{
+    float: left;
+    width:30%;
+    height: 300px;
+    padding-left: 1.66%;
+    padding-right: 1.66%;
+    padding-bottom: 40px;
+    align-items: center;
+    background-color: #d8dfc3;
+}
+.image
+{
+    width: 250px;
+    height: 250px;
+    align-items: center;
+    
+}
+.myhobby
+{
+    
+}
+.footer
+{
+    text-align: center;
+    background-color: #b5aaa6;
+}
+.myinfo
+{
+    background-color:#798287;
+}
+nav
+{
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 13%;
+padding: 10px 90px;
+box-sizing: border-box;
+background: rgba(0,0,0,0.6);
+border-bottom: 1px solid #fff;
+}
+nav .logo{
+    padding: 22px 20px;
+    height: 80px;
+    float: left;
+    font-size: xxx-large;
+    font-weight: bold;
+    text-transform: uppercase;
+    color:white;
+}
+nav ul
+{
+    list-style: none;
+    float: right;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+nav ul li a{
+    line-height: 80px;
+    color: white;
+    padding: 12px 30px;
+    text-decoration: none;
+    font-size:  14px;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+nav ul li a:hover{
+    background: rgb(74, 70, 70);
+    border-radius: 6px;
+}section
+{
+    width: 100%;
+    height: 87vh;
+    background: url(blue.jpg);
+    background-size: cover;
+    background-position: center;
+}
